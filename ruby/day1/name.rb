@@ -1,3 +1,3 @@
-for i in 0..9
-  puts "Colin Murray"
+10.times do
+  puts 'Colin Murray'
 end

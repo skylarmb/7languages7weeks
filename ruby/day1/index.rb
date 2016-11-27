@@ -1,2 +1,2 @@
-ind = "Hello, world".index('world')
-puts "#{ind}"
+ind = 'Hello, world'.index('world')
+puts ind
